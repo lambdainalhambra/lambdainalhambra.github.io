@@ -2,7 +2,7 @@
 
 No hay mejor sitio para celebrar la unión de las dos viejas ciudades del antiguo Reino Nazarí. Málaga y Granada bajo una misma λ, abierta a todas las personas de cerca y de lejos que quieran disfrutar de un evento dedicado a algo que (casi) nos gusta tanto como una buena tapita con su bebida:  la Programación Funcional.
 
-Te proponemos pasar el sábado 6 de abril de 2019 en pleno Albayzín, frente a la Alhambra. El Carmen de La Victoria será el lugar donde conocer gente y proyectos que usan la Programación Funcional cada día.
+Te proponemos pasar el sábado 6 de abril de 2019 en pleno Albayzín, frente a la Alhambra. El Carmen de La Victoria será el lugar donde conocer gente y proyectos que usan la Programación Funcional cada día. Inscríbete [en EventBrite](https://www.eventbrite.es/e/entradas-ahambra-day-57993381766)
 
 	#LambdAlhambra
 
