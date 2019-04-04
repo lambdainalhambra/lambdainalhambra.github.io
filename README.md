@@ -72,6 +72,10 @@ HORARIO :: NIVEL (Básico, Intermedio, Avanzado) :: IDIOMA (ESpañol, ENglish) :
 
 =========== FIN SEGUNDO BLOQUE
 
+16:45 ~ 16:55 :: SWEET COFFEE BREAK
+
+=========== TERCERO BLOQUE: FP en la Industria 
+
 16:55 ~ 18:30 ::  Scala en la Industria
 
 ===========  CIERRE (Aλhambra day)
