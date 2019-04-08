@@ -4,9 +4,9 @@
 
 Charla inaugural => ???
 
-[OOP => FP mindshift: The foundation of Functional Programming] (https://iot.rindus.de/~dawid/LambdaInAlhambra/)
+[OOP => FP mindshift: The foundation of Functional Programming](https://iot.rindus.de/~dawid/LambdaInAlhambra/)
 
-[Algebraic API design] (https://algebraic-api-design.surge.sh/#/)
+[Algebraic API design](https://algebraic-api-design.surge.sh/#/)
 
 Patterns for purely functional programming in Scala => ???
 
@@ -16,7 +16,7 @@ Shape-dependent computations in Scala… and Agda! => ???
 
 Intro to FP on Kotlin => ???
 
-The Main event open key note presentation : https://iot.rindus.de/~dawid/LambdaDayRotator/
+[The Main event open key note presentation](https://iot.rindus.de/~dawid/LambdaDayRotator/)
 
 No hay mejor sitio para celebrar la unión de las dos viejas ciudades del antiguo Reino Nazarí. Málaga y Granada bajo una misma λ, abierta a todas las personas de cerca y de lejos que quieran disfrutar de un evento dedicado a algo que (casi) nos gusta tanto como una buena tapita con su bebida:  la Programación Funcional.
 
