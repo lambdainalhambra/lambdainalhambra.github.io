@@ -2,7 +2,7 @@
 
 ![LambdaAlhambra_2019](https://raw.githubusercontent.com/lambdainalhambra/lambdainalhambra.github.io/master/photos/EventPhoto.jpg)
 
-[The Main event open key note presentation] (https://iot.rindus.de/~dawid/LambdaDayRotator/)
+The Main event open key note presentation : https://iot.rindus.de/~dawid/LambdaDayRotator/
 
 No hay mejor sitio para celebrar la unión de las dos viejas ciudades del antiguo Reino Nazarí. Málaga y Granada bajo una misma λ, abierta a todas las personas de cerca y de lejos que quieran disfrutar de un evento dedicado a algo que (casi) nos gusta tanto como una buena tapita con su bebida:  la Programación Funcional.
 
