@@ -1,14 +1,20 @@
 # ¿Una λ en la Alhambra?
 
-Charla inaugural => ???
-OOP => FP mindshift: The foundation of Functional Programming => https://iot.rindus.de/~dawid/LambdaInAlhambra/
-Algebraic API design => https://algebraic-api-design.surge.sh/#/
-Patterns for purely functional programming in Scala => ???
-Programación Funcional en Perl 6 => ???
-Shape-dependent computations in Scala… and Agda! => ???
-Intro to FP on Kotlin => ???
-
 ![LambdaAlhambra_2019](https://raw.githubusercontent.com/lambdainalhambra/lambdainalhambra.github.io/master/photos/EventPhoto.jpg)
+
+Charla inaugural => ???
+
+OOP => FP mindshift: The foundation of Functional Programming => https://iot.rindus.de/~dawid/LambdaInAlhambra/
+
+Algebraic API design => https://algebraic-api-design.surge.sh/#/
+
+Patterns for purely functional programming in Scala => ???
+
+Programación Funcional en Perl 6 => ???
+
+Shape-dependent computations in Scala… and Agda! => ???
+
+Intro to FP on Kotlin => ???
 
 The Main event open key note presentation : https://iot.rindus.de/~dawid/LambdaDayRotator/
 
