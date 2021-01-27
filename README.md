@@ -4,7 +4,7 @@
 
 Charla inaugural => ???
 
-[OOP => FP mindshift: The foundation of Functional Programming](https://iot.rindus.de/~dawid/LambdaInAlhambra/)
+[OOP => FP mindshift: The foundation of Functional Programming](https://iot.rindus.de/~dawid/presentations/LambdaInAlhambra/)
 
 [Algebraic API design](https://algebraic-api-design.surge.sh/#/)
 
